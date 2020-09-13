@@ -1,12 +1,12 @@
 #######################################
-# Syntax Coloring Map For TB6612FNG
+# Syntax Coloring Map For MC34933
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-TB6612FNG	KEYWORD
+MC34933	KEYWORD
 
 #######################################
 # Methods and Functions (KEYWORD2)

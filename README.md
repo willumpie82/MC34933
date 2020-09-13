@@ -1,6 +1,13 @@
+# MC34933 modification
+This lib is forked from: https://github.com/TheDIYGuy999/TB6612FNG.git
+
+- EXPERIMENTAL!
+- Modifed code to support MC34933 (will make a nice switch when I have time) 
+- Removed dedicated PWM pin (this controller an PWM the input pins)
+
 # Advanced Arduino H-Bridge control library
 
-This is an Arduino library for the Toshiba TB6612FNG DC motor driver
+This is an Arduino library for the Toshiba MC34933 DC motor driver
 
 ## Features:
 - Adjustable fader for smooth speed changes
@@ -24,7 +31,6 @@ New in V1.2:
 
 ## Usage
 
-See [example](https://github.com/TheDIYGuy999/TB6612FNG/blob/master/examples/TB6612FNG/TB6612FNG.ino).
+TODO
 
-
-(c) 2016 - 2017 TheDIYGuy999
+(c) 2020 -  Willumpie82
